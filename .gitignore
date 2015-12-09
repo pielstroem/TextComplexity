@@ -20,6 +20,7 @@ vignettes/*.pdf
 *.png
 *.jpg
 *.zip
+*.html
 
 # all kinds of personal results stored on the long term
 /archive
