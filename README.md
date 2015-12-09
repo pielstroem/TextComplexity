@@ -1,6 +1,6 @@
 # Text Complexity
 
-This collection of R scripts is aimed at calculating a number of metrics that approximate the "complexity" of literary texts, and using them as features in stylometrical analysis.
+This collection of R scripts is aimed at calculating a number of metrics that approximate the "complexity" of literary texts, and using them as features in stylometrical analysis. Still very much work-in-progress.
 
 ### Dependencies
 
